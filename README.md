@@ -1,4 +1,4 @@
-# List all members in GitHub Org
+# List all members in a GitHub Organization
 
 ## install
 `npm install`
